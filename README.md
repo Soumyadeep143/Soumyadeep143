@@ -2,50 +2,45 @@
 <!--           SOUMYADEEP SARKAR · GITHUB PROFILE README          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- TOP BANNER — commit banner_card.svg to your repo root -->
-<img width="100%" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/banner_card.svg" alt="Soumyadeep Sarkar Banner"/>
+<!-- ═══ BANNER — commit banner_card.svg to repo root ═══ -->
+<img width="100%" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/banner_card.svg" alt="Soumyadeep Sarkar"/>
 
 <br/>
 
-<!-- ── HERO: PHOTO + NAME SIDE BY SIDE ── -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="180" align="center" valign="middle">
+<!-- ═══ ANIMATED SOCIAL MEDIA HANDLES ═══ -->
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/profile_photo.png"
-     width="160" height="160"
-     style="border-radius:50%; border:3px solid #00D9FF;"
-     alt="Soumyadeep Sarkar"/>
-
-</td>
-<td valign="middle" align="left" style="padding-left:20px">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=900&color=FFFFFF&vCenter=true&random=false&width=550&height=50&lines=Soumyadeep+Sarkar+%F0%9F%91%8B" alt="Soumyadeep Sarkar"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=800&color=00D9FF&vCenter=true&random=true&width=550&height=28&lines=AI+%2F+ML+Engineer+%C2%B7+Builder+%C2%B7+Content+Creator;LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;%F0%9F%93%8D+Bengaluru+%C2%B7+VTU+CGPA+9.1+%C2%B7+Open+to+Roles+2026" alt="roles"/>
+<a href="https://linkedin.com/in/soumyadeep-sarkar-57ab6426a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://youtube.com/@undercoveragent-update">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+</a>&nbsp;
+<a href="https://twitter.com/soumyadeep_555">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+</a>&nbsp;
+<a href="mailto:soumyadeep735221@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://instagram.com/code_with_aura">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeep-sarkar-57ab6426a)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@undercoveragent-update)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/soumyadeep_555)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyadeep735221@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/code_with_aura)
+<!-- Animated typing role line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=800&color=00D9FF&center=true&vCenter=true&random=true&width=600&height=30&lines=LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;Open+to+Full-Time+Roles+2026+%F0%9F%8E%AF" alt="roles"/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soumyadeep143&style=flat-square&color=00D9FF&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/Soumyadeep143?style=flat-square&color=7928CA&label=followers)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ── ABOUT + IMPACT ── -->
+<!-- ═══ ABOUT + IMPACT ═══ -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -95,7 +90,7 @@ building:
 
 ---
 
-<!-- ── TECH STACK ── -->
+<!-- ═══ TECH STACK ═══ -->
 ### `$ tech-stack --all`
 
 <div align="center">
@@ -149,7 +144,7 @@ building:
 
 ---
 
-<!-- ── EXPERIENCE ── -->
+<!-- ═══ EXPERIENCE ═══ -->
 ### `$ experience`
 
 ```
@@ -166,28 +161,26 @@ building:
 
 ---
 
-<!-- ── PROJECTS ── -->
+<!-- ═══ PROJECTS — PINNED ═══ -->
+<!--
+  ⚠️  FIX: Replace repo names below with your EXACT public repo slugs.
+  Check: github.com/Soumyadeep143?tab=repositories
+-->
 ### `$ projects --pinned`
 
 <div align="center">
 
-<!-- 
-  ⚠️  PIN CARD FIX: Replace repo names below with your EXACT public repo names.
-  Find them at: github.com/Soumyadeep143?tab=repositories
-  Example: if your repo URL is github.com/Soumyadeep143/my-project → repo=my-project
--->
-
 <a href="https://github.com/Soumyadeep143/Movie-recommendation-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Movie-recommendation-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Movie-recommendation-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&show_owner=true"/>
 </a>
 <a href="https://github.com/Soumyadeep143/library_management_system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=library_management_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=library_management_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&show_owner=true"/>
 </a>
 <a href="https://github.com/Soumyadeep143/Password_Strength_Checker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Password_Strength_Checker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Password_Strength_Checker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&show_owner=true"/>
 </a>
 <a href="https://github.com/Soumyadeep143/Math_Quiz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Math_Quiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Math_Quiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&show_owner=true"/>
 </a>
 
 </div>
@@ -196,7 +189,7 @@ building:
 
 ---
 
-<!-- ── GITHUB STATS ── -->
+<!-- ═══ GITHUB STATS ═══ -->
 ### `$ git log --graph`
 
 <div align="center">
@@ -204,19 +197,16 @@ building:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA&text_color=ffffff&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8"/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep143&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=ffffff&sideNums=7928CA"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=Soumyadeep143&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=ffffff&sideNums=7928CA"/>
 
 </div>
 
-<!-- ── SNAKE ANIMATION ── -->
-<!-- 
-  SNAKE SETUP (one-time):
-  1. Go to repo Settings → Actions → General → Workflow permissions → Read AND WRITE → Save
-  2. Create file: .github/workflows/snake.yml with the content below
-  3. Go to Actions tab → Snake → Run workflow (manually trigger once)
-  4. After success, the SVGs will appear on the 'output' branch automatically
+<!-- ═══ SNAKE ANIMATION ═══ -->
+<!--
+  ONE-TIME SNAKE SETUP:
+  1. Settings → Actions → General → Workflow permissions → Read & Write → Save
+  2. Create .github/workflows/snake.yml with:
 
-  ── snake.yml content ──
   name: Snake
   on:
     schedule:
@@ -240,11 +230,13 @@ building:
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Actions → Snake → Run workflow  ✅
 -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/output/github-contribution-grid-snake.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
@@ -260,12 +252,14 @@ building:
 
 ---
 
-<!-- ── YOUTUBE ── -->
+<!-- ═══ YOUTUBE ═══ -->
 ### `$ content --youtube`
 
 <div align="center">
 
-[![Subscribe](https://img.shields.io/badge/▶%20Subscribe-%40undercoveragent--update-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@undercoveragent-update)
+<a href="https://youtube.com/@undercoveragent-update">
+  <img src="https://img.shields.io/badge/▶%20SUBSCRIBE-%40undercoveragent--update-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 **AI × Scalable Software × DevOps** — I build in public and teach what I learn
 
@@ -277,14 +271,14 @@ building:
 
 ---
 
-<!-- ── CERTS ── -->
+<!-- ═══ CERTIFICATIONS ═══ -->
 ### `$ certifications`
 
 `IBM` **Python** &nbsp;·&nbsp; `Oracle` **Databases** &nbsp;·&nbsp; `Govt. of India` **Skill India** &nbsp;·&nbsp; `CellVerse` **🔥 Top 25/100**
 
 ---
 
-<!-- ── FOOTER ── -->
+<!-- ═══ FOOTER ═══ -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
