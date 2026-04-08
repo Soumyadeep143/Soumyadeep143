@@ -2,34 +2,49 @@
 <!--           SOUMYADEEP SARKAR · GITHUB PROFILE README          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══ BANNER — commit banner_card.svg to repo root ═══ -->
+<!-- ═══ BANNER  (commit banner_card.svg to repo root) ═══ -->
 <img width="100%" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/banner_card.svg" alt="Soumyadeep Sarkar"/>
 
 <br/>
 
-<!-- ═══ ANIMATED SOCIAL MEDIA HANDLES ═══ -->
+<!-- ═══ ANIMATED SOCIAL HANDLES  (commit social_animated.svg to repo root) ═══ -->
 <div align="center">
 
-<a href="https://linkedin.com/in/soumyadeep-sarkar-57ab6426a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://youtube.com/@undercoveragent-update">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
-</a>&nbsp;
-<a href="https://twitter.com/soumyadeep_555">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>&nbsp;
-<a href="mailto:soumyadeep735221@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-</a>&nbsp;
-<a href="https://instagram.com/code_with_aura">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/social_animated.svg" alt="Social Media Handles"/>
 
-<br/><br/>
+</div>
 
-<!-- Animated typing role line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=800&color=00D9FF&center=true&vCenter=true&random=true&width=600&height=30&lines=LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;Open+to+Full-Time+Roles+2026+%F0%9F%8E%AF" alt="roles"/>
+<!-- ═══ CLICK-THROUGH LINKS (invisible, cover the SVG cards above) ═══ -->
+<p align="center">
+  <a href="https://linkedin.com/in/soumyadeep-sarkar-57ab6426a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="0" width="155"/></a>
+  <a href="https://youtube.com/@undercoveragent-update"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square" height="0" width="155"/></a>
+  <a href="https://twitter.com/soumyadeep_555"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square" height="0" width="155"/></a>
+  <a href="mailto:soumyadeep735221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square" height="0" width="155"/></a>
+  <a href="https://instagram.com/code_with_aura"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square" height="0" width="155"/></a>
+</p>
+
+<!-- ═══ ACTUAL CLICKABLE BADGES (visible, below the animated SVG) ═══ -->
+<p align="center">
+  <a href="https://linkedin.com/in/soumyadeep-sarkar-57ab6426a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://youtube.com/@undercoveragent-update">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/soumyadeep_555">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:soumyadeep735221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/code_with_aura">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=800&color=00D9FF&center=true&vCenter=true&random=true&width=600&height=30&lines=LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;Open+to+Full-Time+Roles+2026+%F0%9F%8E%AF" alt="roles typing"/>
 
 <br/>
 
@@ -161,11 +176,10 @@ building:
 
 ---
 
-<!-- ═══ PROJECTS — PINNED ═══ -->
-<!--
-  ⚠️  FIX: Replace repo names below with your EXACT public repo slugs.
-  Check: github.com/Soumyadeep143?tab=repositories
--->
+<!-- ═══ PROJECTS  ══════════════════════════════════════════════════
+     ⚠️  These cards only render if the repo is PUBLIC with that exact name.
+     Check: github.com/Soumyadeep143?tab=repositories
+     ════════════════════════════════════════════════════════════════ -->
 ### `$ projects --pinned`
 
 <div align="center">
@@ -201,38 +215,38 @@ building:
 
 </div>
 
-<!-- ═══ SNAKE ANIMATION ═══ -->
-<!--
-  ONE-TIME SNAKE SETUP:
-  1. Settings → Actions → General → Workflow permissions → Read & Write → Save
-  2. Create .github/workflows/snake.yml with:
+<!-- ═══ SNAKE  ════════════════════════════════════════════════════
+     ONE-TIME SETUP (if not done yet):
+     1. Settings → Actions → General → Workflow permissions
+        → "Read and write permissions" → Save
+     2. Create .github/workflows/snake.yml:
 
-  name: Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  permissions:
-    contents: write
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Soumyadeep143
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     name: Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     permissions:
+       contents: write
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: Soumyadeep143
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  3. Actions → Snake → Run workflow  ✅
--->
+     3. Actions → Snake → Run workflow ✅
+     ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
@@ -271,14 +285,12 @@ building:
 
 ---
 
-<!-- ═══ CERTIFICATIONS ═══ -->
 ### `$ certifications`
 
 `IBM` **Python** &nbsp;·&nbsp; `Oracle` **Databases** &nbsp;·&nbsp; `Govt. of India` **Skill India** &nbsp;·&nbsp; `CellVerse` **🔥 Top 25/100**
 
 ---
 
-<!-- ═══ FOOTER ═══ -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
