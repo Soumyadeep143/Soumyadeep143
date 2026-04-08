@@ -1,0 +1,104 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slideIn {
+        from { opacity:0; transform:translateY(12px); }
+        to   { opacity:1; transform:translateY(0); }
+      }
+      @keyframes pulse {
+        0%,100% { opacity:1; }
+        50%      { opacity:0.7; }
+      }
+      @keyframes shimmer {
+        0%   { stroke-dashoffset: 240; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes glow {
+        0%,100% { filter: drop-shadow(0 0 3px currentColor); }
+        50%      { filter: drop-shadow(0 0 8px currentColor); }
+      }
+      .card { animation: slideIn 0.6s ease both; }
+      .c1 { animation-delay: 0.0s; }
+      .c2 { animation-delay: 0.15s; }
+      .c3 { animation-delay: 0.30s; }
+      .c4 { animation-delay: 0.45s; }
+      .c5 { animation-delay: 0.60s; }
+      .ring { stroke-dasharray:240; animation: shimmer 1.8s ease-out both; }
+      .r1 { animation-delay:0.1s; }
+      .r2 { animation-delay:0.25s; }
+      .r3 { animation-delay:0.40s; }
+      .r4 { animation-delay:0.55s; }
+      .r5 { animation-delay:0.70s; }
+      .icon { animation: pulse 3s ease-in-out infinite; }
+      .i1 { animation-delay:0.0s; }
+      .i2 { animation-delay:0.6s; }
+      .i3 { animation-delay:1.2s; }
+      .i4 { animation-delay:1.8s; }
+      .i5 { animation-delay:2.4s; }
+    </style>
+  </defs>
+
+  <!-- ── LINKEDIN ── x=10 -->
+  <g class="card c1">
+    <rect x="10" y="10" width="155" height="68" rx="14" fill="#0A66C2" opacity="0.12" stroke="#0A66C2" stroke-width="1.2"/>
+    <rect class="ring r1" x="10" y="10" width="155" height="68" rx="14" fill="none" stroke="#0A66C2" stroke-width="1.8" stroke-dasharray="240" stroke-dashoffset="240"/>
+    <!-- in icon -->
+    <rect x="28" y="28" width="22" height="22" rx="5" fill="#0A66C2" class="icon i1"/>
+    <rect x="31" y="33" width="4" height="13" rx="1" fill="white"/>
+    <rect x="31" y="29" width="4" height="4" rx="1" fill="white"/>
+    <rect x="37" y="37" width="4" height="9" rx="1" fill="white"/>
+    <path d="M37 37 Q37 33 41 33 Q45 33 45 37 L45 46 L41 46 L41 37 Q41 35.5 39.5 35.5 Q38 35.5 38 37Z" fill="white"/>
+    <text x="57" y="39" font-family="JetBrains Mono,monospace" font-size="11" font-weight="700" fill="#0A66C2">LinkedIn</text>
+    <text x="57" y="55" font-family="monospace" font-size="9.5" fill="#4A90D9">soumyadeep-sarkar</text>
+    <text x="57" y="68" font-family="monospace" font-size="9" fill="#0A66C2" opacity="0.7">Connect →</text>
+  </g>
+
+  <!-- ── YOUTUBE ── x=178 -->
+  <g class="card c2">
+    <rect x="178" y="10" width="155" height="68" rx="14" fill="#FF0000" opacity="0.10" stroke="#FF0000" stroke-width="1.2"/>
+    <rect class="ring r2" x="178" y="10" width="155" height="68" rx="14" fill="none" stroke="#FF0000" stroke-width="1.8" stroke-dasharray="240" stroke-dashoffset="240"/>
+    <!-- play icon -->
+    <rect x="195" y="28" width="24" height="18" rx="5" fill="#FF0000" class="icon i2"/>
+    <polygon points="201,32 209,37 201,42" fill="white"/>
+    <text x="226" y="39" font-family="JetBrains Mono,monospace" font-size="11" font-weight="700" fill="#FF0000">YouTube</text>
+    <text x="226" y="55" font-family="monospace" font-size="9.5" fill="#FF6666">@undercoveragent</text>
+    <text x="226" y="68" font-family="monospace" font-size="9" fill="#FF0000" opacity="0.7">Subscribe →</text>
+  </g>
+
+  <!-- ── TWITTER/X ── x=346 -->
+  <g class="card c3">
+    <rect x="346" y="10" width="155" height="68" rx="14" fill="#1DA1F2" opacity="0.10" stroke="#1DA1F2" stroke-width="1.2"/>
+    <rect class="ring r3" x="346" y="10" width="155" height="68" rx="14" fill="none" stroke="#1DA1F2" stroke-width="1.8" stroke-dasharray="240" stroke-dashoffset="240"/>
+    <!-- X icon -->
+    <rect x="362" y="26" width="22" height="22" rx="5" fill="#1DA1F2" class="icon i3"/>
+    <text x="365" y="42" font-family="Arial,sans-serif" font-size="14" font-weight="900" fill="white">X</text>
+    <text x="391" y="39" font-family="JetBrains Mono,monospace" font-size="11" font-weight="700" fill="#1DA1F2">Twitter</text>
+    <text x="391" y="55" font-family="monospace" font-size="9.5" fill="#5BC5FA">@soumyadeep_555</text>
+    <text x="391" y="68" font-family="monospace" font-size="9" fill="#1DA1F2" opacity="0.7">Follow →</text>
+  </g>
+
+  <!-- ── GMAIL ── x=514 -->
+  <g class="card c4">
+    <rect x="514" y="10" width="155" height="68" rx="14" fill="#EA4335" opacity="0.10" stroke="#EA4335" stroke-width="1.2"/>
+    <rect class="ring r4" x="514" y="10" width="155" height="68" rx="14" fill="none" stroke="#EA4335" stroke-width="1.8" stroke-dasharray="240" stroke-dashoffset="240"/>
+    <!-- M icon -->
+    <rect x="530" y="28" width="24" height="18" rx="3" fill="none" stroke="#EA4335" stroke-width="1.5" class="icon i4"/>
+    <polyline points="530,28 542,38 554,28" fill="none" stroke="#EA4335" stroke-width="1.5"/>
+    <text x="561" y="39" font-family="JetBrains Mono,monospace" font-size="11" font-weight="700" fill="#EA4335">Gmail</text>
+    <text x="561" y="55" font-family="monospace" font-size="9.5" fill="#F07066">soumyadeep7352</text>
+    <text x="561" y="68" font-family="monospace" font-size="9" fill="#EA4335" opacity="0.7">Email →</text>
+  </g>
+
+  <!-- ── INSTAGRAM ── x=682 -->
+  <g class="card c5">
+    <rect x="682" y="10" width="155" height="68" rx="14" fill="#E4405F" opacity="0.10" stroke="#E4405F" stroke-width="1.2"/>
+    <rect class="ring r5" x="682" y="10" width="155" height="68" rx="14" fill="none" stroke="#E4405F" stroke-width="1.8" stroke-dasharray="240" stroke-dashoffset="240"/>
+    <!-- camera icon -->
+    <rect x="699" y="27" width="20" height="18" rx="4" fill="none" stroke="#E4405F" stroke-width="1.5" class="icon i5"/>
+    <circle cx="709" cy="36" r="4" fill="none" stroke="#E4405F" stroke-width="1.3"/>
+    <circle cx="717" cy="29" r="1.5" fill="#E4405F"/>
+    <text x="726" y="39" font-family="JetBrains Mono,monospace" font-size="11" font-weight="700" fill="#E4405F">Instagram</text>
+    <text x="726" y="55" font-family="monospace" font-size="9.5" fill="#F07090">@code_with_aura</text>
+    <text x="726" y="68" font-family="monospace" font-size="9" fill="#E4405F" opacity="0.7">Follow →</text>
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="50%"  stop-color="#001F3F"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="1"/>
+      <stop offset="50%"  stop-color="#7928CA" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="blur3">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="photoClip">
+      <circle cx="100" cy="100" r="76"/>
+    </clipPath>
+    <style>
+      @keyframes spin  { to { transform:rotate(360deg); } }
+      @keyframes spinR { to { transform:rotate(-360deg); } }
+      @keyframes blink { 0%,100%{opacity:0.9} 50%{opacity:0.2} }
+      @keyframes fadeUp{ from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+      .ring1 { transform-origin:100px 100px; animation:spin  8s linear infinite; }
+      .ring2 { transform-origin:100px 100px; animation:spinR 12s linear infinite; }
+      .d1 { animation:blink 2.0s ease-in-out infinite; }
+      .d2 { animation:blink 2.0s ease-in-out 0.5s infinite; }
+      .d3 { animation:blink 2.0s ease-in-out 1.0s infinite; }
+      .d4 { animation:blink 2.0s ease-in-out 1.5s infinite; }
+      .t1 { animation:fadeUp 0.6s 0.1s both; }
+      .t2 { animation:fadeUp 0.6s 0.3s both; }
+      .t3 { animation:fadeUp 0.6s 0.5s both; }
+      .t4 { animation:fadeUp 0.6s 0.7s both; }
+      .t5 { animation:fadeUp 0.6s 0.9s both; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Grid dots (subtle) -->
+  <g opacity="0.07" fill="#00D9FF">
+    <circle cx="600" cy="30" r="1.5"/><circle cx="640" cy="30" r="1.5"/><circle cx="680" cy="30" r="1.5"/><circle cx="720" cy="30" r="1.5"/><circle cx="760" cy="30" r="1.5"/><circle cx="800" cy="30" r="1.5"/><circle cx="840" cy="30" r="1.5"/><circle cx="880" cy="30" r="1.5"/>
+    <circle cx="600" cy="70" r="1.5"/><circle cx="640" cy="70" r="1.5"/><circle cx="680" cy="70" r="1.5"/><circle cx="720" cy="70" r="1.5"/><circle cx="760" cy="70" r="1.5"/><circle cx="800" cy="70" r="1.5"/><circle cx="840" cy="70" r="1.5"/><circle cx="880" cy="70" r="1.5"/>
+    <circle cx="600" cy="110" r="1.5"/><circle cx="640" cy="110" r="1.5"/><circle cx="680" cy="110" r="1.5"/><circle cx="720" cy="110" r="1.5"/><circle cx="760" cy="110" r="1.5"/><circle cx="800" cy="110" r="1.5"/><circle cx="840" cy="110" r="1.5"/><circle cx="880" cy="110" r="1.5"/>
+    <circle cx="600" cy="150" r="1.5"/><circle cx="640" cy="150" r="1.5"/><circle cx="680" cy="150" r="1.5"/><circle cx="720" cy="150" r="1.5"/><circle cx="760" cy="150" r="1.5"/><circle cx="800" cy="150" r="1.5"/><circle cx="840" cy="150" r="1.5"/><circle cx="880" cy="150" r="1.5"/>
+    <circle cx="600" cy="190" r="1.5"/><circle cx="640" cy="190" r="1.5"/><circle cx="680" cy="190" r="1.5"/><circle cx="720" cy="190" r="1.5"/><circle cx="760" cy="190" r="1.5"/><circle cx="800" cy="190" r="1.5"/><circle cx="840" cy="190" r="1.5"/><circle cx="880" cy="190" r="1.5"/>
+  </g>
+
+  <!-- Left accent bars -->
+  <rect x="0" y="0" width="4" height="200" fill="#00D9FF" opacity="0.9" rx="2"/>
+  <rect x="6" y="0" width="2" height="200" fill="#7928CA" opacity="0.7"/>
+
+  <!-- Outer glow ring (blurred, static) -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="url(#glow)" stroke-width="6" filter="url(#blur3)" opacity="0.5"/>
+
+  <!-- Spinning dashed ring -->
+  <circle class="ring1" cx="100" cy="100" r="88"
+    fill="none" stroke="url(#ringGrad)" stroke-width="2"
+    stroke-dasharray="30 18 10 18"/>
+
+  <!-- Counter-spinning dotted ring -->
+  <circle class="ring2" cx="100" cy="100" r="82"
+    fill="none" stroke="#7928CA" stroke-width="1"
+    stroke-dasharray="4 20" opacity="0.7"/>
+
+  <!-- Static inner ring -->
+  <circle cx="100" cy="100" r="78" fill="none" stroke="#00D9FF" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- Blinking corner dots -->
+  <circle class="d1" cx="12"  cy="100" r="4.5" fill="#00D9FF"/>
+  <circle class="d2" cx="188" cy="100" r="4.5" fill="#00D9FF"/>
+  <circle class="d3" cx="100" cy="12"  r="4.5" fill="#00D9FF"/>
+  <circle class="d4" cx="100" cy="188" r="4.5" fill="#00D9FF"/>
+
+  <!-- Profile photo — uses raw GitHub URL (works on GitHub README) -->
+  <!-- ⚠️ profile_photo.png must be committed to repo root -->
+  <image href="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/profile_photo.png"
+    x="24" y="24" width="152" height="152"
+    clip-path="url(#photoClip)"
+    preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Fallback circle (shows when image can't load) -->
+  <circle cx="100" cy="100" r="76" fill="#001F3F" opacity="0.5"/>
+  <!-- Initials fallback inside circle -->
+  <text x="100" y="108" text-anchor="middle" font-family="JetBrains Mono,monospace"
+    font-size="28" font-weight="800" fill="#00D9FF" opacity="0.4">SS</text>
+
+  <!-- Name -->
+  <text class="t1" x="222" y="58" font-family="JetBrains Mono, Courier New, monospace"
+    font-size="30" font-weight="800" fill="#ffffff">Soumyadeep Sarkar</text>
+
+  <!-- Role subtitle -->
+  <text class="t2" x="222" y="82" font-family="JetBrains Mono, Courier New, monospace"
+    font-size="13" fill="#00D9FF">AI/ML Engineer  ·  Builder  ·  Content Creator</text>
+
+  <!-- Separator -->
+  <line class="t2" x1="222" y1="96" x2="690" y2="96" stroke="url(#glow)" stroke-width="1" opacity="0.4"/>
+
+  <!-- Tech badges row -->
+  <g class="t3">
+    <rect x="222" y="105" width="58" height="20" rx="10" fill="#00D9FF" opacity="0.15" stroke="#00D9FF" stroke-width="0.8"/>
+    <text x="251" y="119" font-family="monospace" font-size="10.5" fill="#00D9FF" text-anchor="middle">LLM</text>
+
+    <rect x="288" y="105" width="58" height="20" rx="10" fill="#00D9FF" opacity="0.15" stroke="#00D9FF" stroke-width="0.8"/>
+    <text x="317" y="119" font-family="monospace" font-size="10.5" fill="#00D9FF" text-anchor="middle">RAG</text>
+
+    <rect x="354" y="105" width="58" height="20" rx="10" fill="#7928CA" opacity="0.2" stroke="#7928CA" stroke-width="0.8"/>
+    <text x="383" y="119" font-family="monospace" font-size="10.5" fill="#a78bfa" text-anchor="middle">MCP</text>
+
+    <rect x="420" y="105" width="90" height="20" rx="10" fill="#7928CA" opacity="0.2" stroke="#7928CA" stroke-width="0.8"/>
+    <text x="465" y="119" font-family="monospace" font-size="10.5" fill="#a78bfa" text-anchor="middle">Agentic AI</text>
+
+    <rect x="518" y="105" width="78" height="20" rx="10" fill="#FF6B35" opacity="0.15" stroke="#FF6B35" stroke-width="0.8"/>
+    <text x="557" y="119" font-family="monospace" font-size="10.5" fill="#FF6B35" text-anchor="middle">FastAPI</text>
+
+    <rect x="604" y="105" width="66" height="20" rx="10" fill="#4CAF50" opacity="0.15" stroke="#4CAF50" stroke-width="0.8"/>
+    <text x="637" y="119" font-family="monospace" font-size="10.5" fill="#4CAF50" text-anchor="middle">Kafka</text>
+  </g>
+
+  <!-- Info line 1 -->
+  <text class="t4" x="222" y="154" font-family="monospace" font-size="11.5" fill="#8b949e">
+    📍 Bengaluru · VTU B.E. CSE · CGPA 9.1 · Open to Roles 2026
+  </text>
+
+  <!-- Info line 2 -->
+  <text class="t5" x="222" y="174" font-family="monospace" font-size="10.5" fill="#6e7681">
+    🎥 @undercoveragent-update  ·  AI × Scalable Software × DevOps
+  </text>
+</svg>
