@@ -2,19 +2,16 @@
 <!--           SOUMYADEEP SARKAR · GITHUB PROFILE README          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- TOP WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:001F3F,70:00D9FF,100:7928CA&height=160&section=header&animation=twinkling&text=&fontSize=0"/>
+<!-- TOP BANNER — commit banner_card.svg to your repo root -->
+<img width="100%" src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/banner_card.svg" alt="Soumyadeep Sarkar Banner"/>
+
+<br/>
 
 <!-- ── HERO: PHOTO + NAME SIDE BY SIDE ── -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="180" align="center" valign="middle">
 
-<!-- 
-  PHOTO SETUP:
-  1. Commit profile_photo.png to your Soumyadeep143 repo root
-  2. The image below auto-loads from your repo
--->
 <img src="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/main/profile_photo.png"
      width="160" height="160"
      style="border-radius:50%; border:3px solid #00D9FF;"
@@ -23,17 +20,21 @@
 </td>
 <td valign="middle" align="left" style="padding-left:20px">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=900&color=FFFFFF&vCenter=true&random=false&width=620&height=50&lines=Soumyadeep+Sarkar" alt="name"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=800&color=00D9FF&vCenter=true&random=true&width=620&height=30&lines=AI+%2F+ML+Engineer+%C2%B7+Builder+%C2%B7+Content+Creator;LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;%F0%9F%93%8D+Bengaluru+%C2%B7+VTU+CGPA+9.1+%C2%B7+Open+to+Roles+2026" alt="role typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=900&color=FFFFFF&vCenter=true&random=false&width=550&height=50&lines=Soumyadeep+Sarkar+%F0%9F%91%8B" alt="Soumyadeep Sarkar"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=800&color=00D9FF&vCenter=true&random=true&width=550&height=28&lines=AI+%2F+ML+Engineer+%C2%B7+Builder+%C2%B7+Content+Creator;LLM+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Agentic+AI+%C2%B7+Multi-Agent;FastAPI+%C2%B7+Node.js+%C2%B7+Kafka+%C2%B7+Real-Time+Pipelines;PyTorch+%C2%B7+HuggingFace+%C2%B7+NLP+%C2%B7+GenAI;%F0%9F%93%8D+Bengaluru+%C2%B7+VTU+CGPA+9.1+%C2%B7+Open+to+Roles+2026" alt="roles"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyadeep-sarkar-57ab6426a)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@undercoveragent-update)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/soumyadeep_555)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyadeep735221@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/code_with_aura)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soumyadeep143&style=flat-square&color=00D9FF&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/Soumyadeep143?style=flat-square&color=7928CA&label=followers)
@@ -170,16 +171,22 @@ building:
 
 <div align="center">
 
-<a href="https://github.com/Soumyadeep143">
+<!-- 
+  ⚠️  PIN CARD FIX: Replace repo names below with your EXACT public repo names.
+  Find them at: github.com/Soumyadeep143?tab=repositories
+  Example: if your repo URL is github.com/Soumyadeep143/my-project → repo=my-project
+-->
+
+<a href="https://github.com/Soumyadeep143/Movie-recommendation-system">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Movie-recommendation-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
 </a>
-<a href="https://github.com/Soumyadeep143">
+<a href="https://github.com/Soumyadeep143/library_management_system">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=library_management_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
 </a>
-<a href="https://github.com/Soumyadeep143">
+<a href="https://github.com/Soumyadeep143/Password_Strength_Checker">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Password_Strength_Checker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
 </a>
-<a href="https://github.com/Soumyadeep143">
+<a href="https://github.com/Soumyadeep143/Math_Quiz">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumyadeep143&repo=Math_Quiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7928CA"/>
 </a>
 
@@ -201,7 +208,40 @@ building:
 
 </div>
 
-<!-- SNAKE ANIMATION (activate via GitHub Action — see setup instructions) -->
+<!-- ── SNAKE ANIMATION ── -->
+<!-- 
+  SNAKE SETUP (one-time):
+  1. Go to repo Settings → Actions → General → Workflow permissions → Read AND WRITE → Save
+  2. Create file: .github/workflows/snake.yml with the content below
+  3. Go to Actions tab → Snake → Run workflow (manually trigger once)
+  4. After success, the SVGs will appear on the 'output' branch automatically
+
+  ── snake.yml content ──
+  name: Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Soumyadeep143
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumyadeep143/Soumyadeep143/output/github-contribution-grid-snake-dark.svg"/>
